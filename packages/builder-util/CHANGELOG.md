@@ -1,5 +1,11 @@
 # builder-util
 
+## 26.0.0-alpha.7
+
+### Patch Changes
+
+- [#8693](https://github.com/electron-userland/electron-builder/pull/8693) [`6a6bed46`](https://github.com/electron-userland/electron-builder/commit/6a6bed46c428b45105ada071a9cb89b5d4f93d9e) Thanks [@renovate](https://github.com/apps/renovate)! - fix(deps): update dependency cross-spawn to v7.0.5 [security]
+
 ## 26.0.0-alpha.3
 
 ### Patch Changes
